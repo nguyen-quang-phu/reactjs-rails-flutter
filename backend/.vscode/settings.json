@@ -1,0 +1,17 @@
+{
+    "[ruby]": {
+      // "editor.formatOnSave": true,
+      "editor.defaultFormatter": "rebornix.ruby"
+    },
+    "ruby.rubocop.executePath": "",
+    "ruby.format": "rubocop",
+    "ruby.rubocop.onSave": true,
+    "files.autoSave": "onFocusChange",
+    "files.autoSaveDelay": 5000,
+    "[erb]": {
+      "editor.formatOnSave": true
+    },
+    "ruby.useLanguageServer": true,
+    "ruby.intellisense": "rubyLocate",
+    "files.eol": "\n"
+}
